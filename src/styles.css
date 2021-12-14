@@ -64,6 +64,19 @@ p{
     color: #ffd6baff;
 }
 
+.information{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+}
+
+.nitro-title{
+    font-family: "Roboto";
+    font-size: 100px;
+    color: #1446a0ff;
+}
+
 /*
 --cobalt-blue: #1446a0ff;
 --morning-blue: #89b0aeff;
